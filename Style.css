@@ -1,15 +1,42 @@
 body{
-    background-color: rgb(13, 174, 202);
+    background-color: rgb(31, 3, 97);
 }
 
 p{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
 }
 
 h1{
     text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 22px;    
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .altP{
+    text-align: right;
+}
+
+.robot{
+    max-width: 50%;
+    max-height: auto;
+}
+
+.teknikum{
+    max-width: 80%;
+    max-height: auto;
+}
+.teknikump{
+    text-align: center;
+}
+h2{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+.textp{
+    text-align: center;  
+    color: rgb(255, 255, 255);
+}
+.tankar{
     text-align: right;
 }
