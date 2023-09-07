@@ -25,6 +25,7 @@ h1{
 .teknikum{
     max-width: 80%;
     max-height: auto;
+    text-align: center;
 }
 .teknikump{
     text-align: center;
@@ -42,11 +43,8 @@ h2{
     text-align: right;
 }
 .länk{
+    text-align: center;
     text-decoration: none;
-}
-.ommig{
-    border-style: solid;
-    border-color: black;
 }
 .sect{
     border-style: solid;
