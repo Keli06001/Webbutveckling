@@ -44,3 +44,11 @@ h2{
 .länk{
     text-decoration: none;
 }
+.ommig{
+    border-style: solid;
+    border-color: black;
+}
+.sect{
+    border-style: solid;
+    border-color: black;
+}
