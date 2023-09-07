@@ -45,6 +45,7 @@ h2{
 .länk{
     text-align: center;
     text-decoration: none;
+    display: block;
 }
 .sect{
     border-style: solid;
